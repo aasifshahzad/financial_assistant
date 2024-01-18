@@ -10,12 +10,6 @@ This repository contains code for developing two powerful Streamlit applications
     - Perform various financial calculations and projections.
     - Visualize financial data for better understanding.
 
-2. **PDF Analyzer:**
-    - Extract text and data from PDF documents.
-    - Interpret and summarize dense information within PDFs.
-    - Provide insights and analysis based on document content.
-    - User-friendly interface for uploading and processing PDFs.
-
 ## Technologies Used
 
 - Streamlit: A powerful Python library for building interactive web applications.
@@ -28,8 +22,8 @@ This repository contains code for developing two powerful Streamlit applications
 1. Clone this repository to your local machine.
 2. Install the required dependencies mentioned in the `requirements.txt` file.
 3. Obtain API keys or credentials for accessing the Assistants API and configure the application.
-4. Run the Streamlit applications using the provided commands in the repository.
-5. Interact with the Financial Assistant and PDF Analyzer through the user-friendly interfaces.
+4. Run the Streamlit applications using the  commands `streamlit run app.py``.
+
 
 ## Contributing
 
