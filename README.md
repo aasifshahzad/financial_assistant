@@ -22,7 +22,7 @@ This repository contains code for developing two powerful Streamlit applications
 1. Clone this repository to your local machine.
 2. Install the required dependencies mentioned in the `requirements.txt` file.
 3. Obtain API keys or credentials for accessing the Assistants API and configure the application.
-4. Run the Streamlit applications using the  commands `streamlit run app.py``.
+4. Run the Streamlit applications using the  commands `streamlit run app.py`.
 
 
 ## Contributing
